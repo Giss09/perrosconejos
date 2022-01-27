@@ -1,4 +1,4 @@
-# Clasificación de perros y gatos
+# Clasificación de perros y conejos
 
 Este código fuente sirve como apoyo para el video de exportación de modelos de Tensorflow a Tensorflow.js, del canal de YouTube [Ringa Tech](https://youtube.com/RingaTech)
 
